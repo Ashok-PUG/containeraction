@@ -1,6 +1,6 @@
 name: 'my first container action'
 description: 'A cloud guru'
-author: 'Ashok Kumar Pathakamuri'
+author: 'Ashok Pathakamuri'
 inputs:
   myInput:
     description: 'greeting to use'
